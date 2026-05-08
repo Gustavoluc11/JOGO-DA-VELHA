@@ -1,4 +1,4 @@
-# JOGO DA VELHA COM VALIDAÇÃO NO REINÍCIO
+# JOGO DA VÉIA
 print('-='*30)
 print('JOGO DA VÉIA')
 print('-='*30)
